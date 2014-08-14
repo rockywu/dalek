@@ -1,4 +1,4 @@
-dalekjs
+dalekjs 一个做前端js单测试的框架
 ======================
 
 > DalekJS base framework
